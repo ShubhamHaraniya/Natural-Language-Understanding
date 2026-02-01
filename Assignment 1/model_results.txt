@@ -1,0 +1,111 @@
+Model Evaluation Results
+========================
+
+--- BoW + NB ---
+Accuracy: 0.9924
+              precision    recall  f1-score   support
+
+    Politics       0.99      0.99      0.99      1050
+      Sports       0.99      0.99      0.99       796
+
+    accuracy                           0.99      1846
+   macro avg       0.99      0.99      0.99      1846
+weighted avg       0.99      0.99      0.99      1846
+
+
+--- BoW + SVM ---
+Accuracy: 0.9707
+              precision    recall  f1-score   support
+
+    Politics       0.98      0.97      0.97      1050
+      Sports       0.96      0.97      0.97       796
+
+    accuracy                           0.97      1846
+   macro avg       0.97      0.97      0.97      1846
+weighted avg       0.97      0.97      0.97      1846
+
+
+--- BoW + LR ---
+Accuracy: 0.9756
+              precision    recall  f1-score   support
+
+    Politics       0.98      0.98      0.98      1050
+      Sports       0.97      0.97      0.97       796
+
+    accuracy                           0.98      1846
+   macro avg       0.98      0.98      0.98      1846
+weighted avg       0.98      0.98      0.98      1846
+
+
+--- TF-IDF + NB ---
+Accuracy: 0.9843
+              precision    recall  f1-score   support
+
+    Politics       0.97      1.00      0.99      1050
+      Sports       1.00      0.97      0.98       796
+
+    accuracy                           0.98      1846
+   macro avg       0.99      0.98      0.98      1846
+weighted avg       0.98      0.98      0.98      1846
+
+
+--- TF-IDF + SVM ---
+Accuracy: 0.9892
+              precision    recall  f1-score   support
+
+    Politics       0.99      1.00      0.99      1050
+      Sports       0.99      0.98      0.99       796
+
+    accuracy                           0.99      1846
+   macro avg       0.99      0.99      0.99      1846
+weighted avg       0.99      0.99      0.99      1846
+
+
+--- TF-IDF + LR ---
+Accuracy: 0.9854
+              precision    recall  f1-score   support
+
+    Politics       0.98      1.00      0.99      1050
+      Sports       0.99      0.97      0.98       796
+
+    accuracy                           0.99      1846
+   macro avg       0.99      0.98      0.99      1846
+weighted avg       0.99      0.99      0.99      1846
+
+
+--- N-gram(1,2) + NB ---
+Accuracy: 0.9691
+              precision    recall  f1-score   support
+
+    Politics       0.95      1.00      0.97      1050
+      Sports       1.00      0.93      0.96       796
+
+    accuracy                           0.97      1846
+   macro avg       0.97      0.96      0.97      1846
+weighted avg       0.97      0.97      0.97      1846
+
+
+--- N-gram(1,2) + SVM ---
+Accuracy: 0.9870
+              precision    recall  f1-score   support
+
+    Politics       0.98      0.99      0.99      1050
+      Sports       0.99      0.98      0.98       796
+
+    accuracy                           0.99      1846
+   macro avg       0.99      0.99      0.99      1846
+weighted avg       0.99      0.99      0.99      1846
+
+
+--- N-gram(1,2) + LR ---
+Accuracy: 0.9843
+              precision    recall  f1-score   support
+
+    Politics       0.98      1.00      0.99      1050
+      Sports       0.99      0.97      0.98       796
+
+    accuracy                           0.98      1846
+   macro avg       0.99      0.98      0.98      1846
+weighted avg       0.98      0.98      0.98      1846
+
+
