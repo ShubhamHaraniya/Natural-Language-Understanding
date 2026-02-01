@@ -26,7 +26,7 @@ def load_data():
     ]
     
     print("Loading 20 Newsgroups dataset...")
-    # Load separate train and test sets to simulate real-world scenario/prevent leakage
+    # Load separate train and test sets
     train_data = fetch_20newsgroups(subset='train', categories=categories, shuffle=True, random_state=42)
     test_data = fetch_20newsgroups(subset='test', categories=categories, shuffle=True, random_state=42)
     
@@ -47,9 +47,6 @@ def load_data():
     return train_data.data, y_train_bin, test_data.data, y_test_bin
 
 def analyze_data(X_train, y_train):
-    """
-    Perform data analysis and generate visualizations.
-    """
     print("Performing data analysis...")
     df = pd.DataFrame({'text': X_train, 'label': y_train})
     
@@ -71,7 +68,7 @@ def analyze_data(X_train, y_train):
         plt.savefig(f'docs/images/wordcloud_{label.lower()}.png')
         plt.close()
         
-    # 3. Top frequent words (excluding stop words via CountVectorizer just for viz)
+    # 3. Top frequent words
     cv = CountVectorizer(stop_words='english', max_features=20)
     
     for label in ['Sports', 'Politics']:
@@ -89,9 +86,7 @@ def analyze_data(X_train, y_train):
         plt.close()
 
 def train_evaluate(X_train, y_train, X_test, y_test):
-    """
-    Train models and evaluate them.
-    """
+    # Train models and evaluate them.
     experiments = [
         ("BoW + NB", CountVectorizer(stop_words='english'), MultinomialNB()),
         ("BoW + SVM", CountVectorizer(stop_words='english'), LinearSVC(random_state=42, dual='auto')),
