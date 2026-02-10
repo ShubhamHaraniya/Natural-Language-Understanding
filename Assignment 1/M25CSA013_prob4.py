@@ -1,3 +1,8 @@
+"""
+NLP Assignment 1 - Problem 4
+Student ID: M25CSA013
+Sports vs Politics Classifier
+"""
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -16,23 +21,20 @@ if not os.path.exists('docs/images'):
     os.makedirs('docs/images')
 
 def load_data():
-    """
-    Load data from 20 Newsgroups dataset.
-    Categories: Sports (baseball, hockey) vs Politics (guns, mideast, misc)
-    """
+    # loading the 20 newsgroups dataset
+    # we just need sports and politics categories
     categories = [
         'rec.sport.baseball', 'rec.sport.hockey',
         'talk.politics.guns', 'talk.politics.mideast', 'talk.politics.misc'
     ]
     
     print("Loading 20 Newsgroups dataset...")
-    # Load separate train and test sets to simulate real-world scenario/prevent leakage
+    # fetching train and test sets separately
     train_data = fetch_20newsgroups(subset='train', categories=categories, shuffle=True, random_state=42)
     test_data = fetch_20newsgroups(subset='test', categories=categories, shuffle=True, random_state=42)
     
-    # Map raw targets to binary classes: 0 for Sports, 1 for Politics
-    # Check target names to ensure correct mapping
-    # 'rec.*' start with 'rec', 'talk.*' start with 'talk'
+    # helper to convert labels to binary
+    # 0 for Sports, 1 for Politics
     
     def get_binary_label(target_idx, target_names):
         name = target_names[target_idx]
@@ -47,20 +49,18 @@ def load_data():
     return train_data.data, y_train_bin, test_data.data, y_test_bin
 
 def analyze_data(X_train, y_train):
-    """
-    Perform data analysis and generate visualizations.
-    """
+    # simple data visualization
     print("Performing data analysis...")
     df = pd.DataFrame({'text': X_train, 'label': y_train})
     
-    # 1. Class Distribution
+    # 1. checking class balance
     plt.figure(figsize=(8, 6))
     sns.countplot(x='label', data=df)
     plt.title('Class Distribution (Training Set)')
     plt.savefig('docs/images/class_distribution.png')
     plt.close()
     
-    # 2. Word Clouds
+    # 2. generating word clouds
     for label in ['Sports', 'Politics']:
         text = " ".join(df[df['label'] == label]['text'])
         wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
@@ -71,7 +71,7 @@ def analyze_data(X_train, y_train):
         plt.savefig(f'docs/images/wordcloud_{label.lower()}.png')
         plt.close()
         
-    # 3. Top frequent words (excluding stop words via CountVectorizer just for viz)
+    # 3. checking most frequent words
     cv = CountVectorizer(stop_words='english', max_features=20)
     
     for label in ['Sports', 'Politics']:
@@ -89,9 +89,7 @@ def analyze_data(X_train, y_train):
         plt.close()
 
 def train_evaluate(X_train, y_train, X_test, y_test):
-    """
-    Train models and evaluate them.
-    """
+    # training different models and comparing them
     experiments = [
         ("BoW + NB", CountVectorizer(stop_words='english'), MultinomialNB()),
         ("BoW + SVM", CountVectorizer(stop_words='english'), LinearSVC(random_state=42, dual='auto')),
@@ -121,7 +119,7 @@ def train_evaluate(X_train, y_train, X_test, y_test):
     for name, vectorizer, model in experiments:
         print(f"Running experiment: {name}")
         
-        # Pipeline manual steps
+        # training the model
         X_train_vec = vectorizer.fit_transform(X_train)
         X_test_vec = vectorizer.transform(X_test)
         
@@ -143,7 +141,7 @@ def train_evaluate(X_train, y_train, X_test, y_test):
             best_model_name = name
             best_y_pred = y_pred
 
-    # Compare accuracies
+    # plotting results
     res_df = pd.DataFrame(results)
     plt.figure(figsize=(10, 6))
     sns.barplot(x='Accuracy', y='Model', data=res_df)
@@ -152,7 +150,7 @@ def train_evaluate(X_train, y_train, X_test, y_test):
     plt.savefig('docs/images/model_comparison.png')
     plt.close()
     
-    # Confusion Matrix for best model
+    # showing confusion matrix for the best model
     cm = confusion_matrix(y_test, best_y_pred, labels=['Sports', 'Politics'])
     plt.figure(figsize=(6, 5))
     sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=['Sports', 'Politics'], yticklabels=['Sports', 'Politics'])
