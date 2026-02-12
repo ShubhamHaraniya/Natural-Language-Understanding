@@ -1,9 +1,0 @@
-low lower newest widest
-low low low lowest
-new new newer newest
-wide wide wider widest
-the quick brown fox jumps over the lazy dog
-natural language processing is fascinating
-machine learning and deep learning
-tokenization is important for nlp
-byte pair encoding is a subword tokenization method
