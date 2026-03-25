@@ -1,0 +1,183 @@
+
+IIT JODHPUR - CURRICULUM INFORMATION
+M.Tech. Artificial Intelligence (AI) and B.Tech. Artificial Intelligence & Data Science (AI&DS)
+================================================================================
+
+M.Tech. ARTIFICIAL INTELLIGENCE (AI)
+================================================================================
+
+Introduction:
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines to act with higher levels of intelligence and emulate the human capabilities of sense, comprehend and act. The core problems of artificial intelligence include programming computers for certain traits such as Knowledge, Reasoning, Problem-solving, Perception, Learning and Planning. AI technology development and applications are evolving rapidly with major implications for economies and societies. As the demand for such applications increases, there is also an increasing need for building the future workforce for AI. For developing the AI ecosystem, this program will be executed in synergy with other M.Tech programs running in IIT Jodhpur, such as Sensors & IoT, Cyber-Physical Systems, and Advanced Manufacturing and Design.
+
+Objectives:
+This M.Tech in AI programme will offer students with deep knowledge of both fundamental AI technologies, as well as application-oriented AI. A student completing this program will be capable to undertake careers in industry as well as academia. He/She will have the option to explore a variety of domains including Manufacturing, Fintech, Healthcare, Agriculture/Food Processing, Education, Retail/Customer Engagement, Human and Robot interaction/intelligent automation, Smart City, Aid for Differently Abled/Accessibility Technology.
+
+Expected Graduate Attributes:
+After completing this programme, a student will be able to develop an ability to:
+1. Demonstrate advanced skills to comprehend and communicate effectively.
+2. Carry out projects using intelligent cognitive solutions provided by AI algorithms to get more insights in stakeholder management, risk modeling, intelligent resource scheduling and managing project constraints with intelligent use of data models.
+
+Course Structure for M.Tech. (AI) Program and Dual degree M.Tech. (AI) + PhD
+
+I Semester:
+- Statistics, Matrix Computation, Optimization (3 credits)
+- Artificial Intelligence I (3 credits)
+- Machine Learning I (3 credits)
+- Data Structures and Practices (1 credit)
+- Program Elective 1 (3 credits)
+- Program Elective 2 (3 credits)
+- Technical Communication (1 credit)
+Total Credits: 17
+
+II Semester:
+- Artificial Intelligence II (3 credits)
+- Machine Learning II (3 credits)
+- Real Time Autonomous Systems (2 credits)
+- Program Elective 3 (3 credits)
+- Open Elective 1 (3 credits)
+- Ethics and Professional Life (1 credit)
+Total Credits: 15
+
+III Semester:
+- Major Project - Part 1 (5 credits)
+- Program Elective 4 (3 credits)
+- Program Elective 5 (3 credits)
+- Open Elective 2 (3 credits)
+Total Credits: 14
+
+IV Semester:
+- Major Project - Part 2 (11 credits)
+- Program Elective 6 (3 credits)
+- Intellectual Property (1 credit)
+Total Credits: 15
+
+Maths Fractals: Linear Algebra, Probability and Random Processes, Optimization
+
+================================================================================
+
+B.Tech. ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (AI&DS)
+================================================================================
+
+Program Overview:
+The B.Tech program in Artificial Intelligence and Data Science at IIT Jodhpur integrates computer science fundamentals with specialized courses in AI and data science. It aims to prepare students for careers in various domains by providing hands-on knowledge and interdisciplinary skills, while also allowing for entrepreneurial opportunities. The curriculum includes core and elective courses, practical training, and a dual degree option with an MBA.
+
+Starting 2020, IIT Jodhpur offers a unique undergraduate program in Artificial Intelligence and Data Science, that envisions to equip students with the ability to assess societal, health, safety, legal and cultural issues, and most importantly identify their consequent responsibilities as engineers of effective solutions for the same.
+
+The curriculum is interdisciplinary at heart - straddling computer science, mathematics, artificial intelligence, machine learning, data science, and their applications across numerous domains.
+
+Core Courses:
+- Artificial Intelligence
+- Deep Learning
+- Digital Image Processing
+- Computer Vision and Video Processing
+
+Exclusive Courses:
+- Biometrics
+- Dependable AI
+- Resource-constrained AI
+- Big Data
+- Data Engineering and Data Visualization
+- Stream Analytics
+- Social Network Analysis
+- Human-Machine Interaction
+- Augmented and Virtual Reality
+- Speech and Natural Language Understanding
+- Computational Neuroscience
+
+Transdisciplinary Specialization Areas:
+- Visual Computing
+- Socio-Digital Reality
+- Intelligent Communications and Networking
+- Language Technologies
+- Robotics
+- AIOT (Artificial Intelligence of Things)
+
+Management Specialization:
+The program allows students to venture into a one-of-a-kind Management specialization that would focus on AI and Technology, leading to an MBA (BTech + MBA dual degree program) and scope for entrepreneurial pursuits.
+
+2nd Year B.Tech AI & Data Science Program Structure (AY 2020-21):
+
+I Semester:
+- Introduction to Electrical Engineering (3-0-2, 5 CH, 4 NC)
+- Introduction to Computer Science (3-0-2, 5 CH, 4 NC)
+- Introduction to Bioengineering (3-0-2, 5 CH, 4 NC)
+- Chemistry Lab (0-0-2, 2 CH, 1 NC)
+- Mathematics I (3-1-0, 4 CH, 4 NC)
+- Engineering Visualization (0-0-2, 2 CH, 1 NC)
+- Engineering Design I (0-0-2, 2 CH, 1 GC)
+- Communication Skill I (0-0-2, 2 CH, 1 GC)
+- Social Connect and Responsibilities I (0-0-1, 1 CH, 0.5 GC)
+- Performing Arts I/Sports I (0-0-1, 1 CH, 0.5 GC)
+Total: 12-1-14, 27 CH, 3 GC, 17 NC
+
+II Semester:
+- Engineering Mechanics (2-1-0, 3 CH, 3 NC)
+- Chemistry (3-0-0, 3 CH, 3 NC)
+- Physics (3-0-0, 3 CH, 3 NC)
+- Physics Lab (0-0-2, 2 CH, 1 NC)
+- Mathematics II (3-1-0, 4 CH, 4 NC)
+- Engineering Realization (0-0-2, 1 CH, 1 NC)
+- Engineering Design II (0-0-2, 2 CH, 1 GC)
+- Communication Skill II (0-0-2, 2 CH, 1 GC)
+- Social Connect and Responsibilities II (0-0-1, 1 CH, 0.5 GC)
+- Performing Arts II/Sports II (0-0-1, 1 CH, 0.5 GC)
+Total: 11-2-12, 25 CH, 3 GC, 16 NC
+
+III Semester:
+- PSSP (3-1-0, 4 CH, 4 NC)
+- Data Structures and Algorithms (3-0-2, 5 CH, 4 NC)
+- Maths for Computing (3-1-0, 4 CH, 4 NC)
+- Signals and Systems (3-1-0, 4 CH, 4 NC)
+- Introduction to Profession (0-0-2, 2 CH, 1 GC)
+Total: 17-3-4, 24 CH, 1 GC, 21 NC
+
+IV Semester:
+- Materials Science & Engineering (Electronic materials) (1x1-0-0, 1 CH, 1 NC)
+- i-Energy materials ii- Computational Materials Design (2x1-0-0, 2 CH, 2 NC)
+- Pattern Recognition and Machine Learning (3-0-2, 5 CH, 4 NC)
+- Thermodynamics (3-1-0, 4 CH, 4 NC)
+- HMI PCS-1 PCS-2 (0-0-4, 2-0-2, 3-0-2, 4 CH, 2 GC, 4 NC)
+- Quantum Info Processing (3-0-0, 3 CH, 3 NC)
+- Humanities I (3-0-0, 3 CH, 3 NC)
+Total: 15-1-10, 24 CH, 21 NC
+
+V Semester:
+- Design and Analysis of Algorithms (3-1-0, 4 CH, 4 NC)
+- Artificial Intelligence (3-0-0, 3 CH, 3 NC)
+- Optimization in ML (3-0-3, 6 CH, 6 NC)
+- Data Engineering (3-0-3, 6 CH, 4.5 NC)
+- Data Visualization (3-0-3, 6 CH, 4.5 NC)
+- Deep Learning (3-0-3, 6 CH, 4.5 NC)
+- Humanities II (3-0-0, 3 CH, 3 NC)
+- Professional Ethics I (0-1-0, 1 CH, NC)
+Total: 15-2-6, 22 CH, 1 GC, 19 NC
+
+VI Semester:
+- AI+X / DS+X (3-0-0, 3 CH, 3 NC)
+- Dependable AI (3-0-0, 3 CH, 3 NC)
+- Programme/Open Elective (6-0-0, 6 CH, 6 NC)
+- Ethics, Policy, Law and Regulations in AI (0-0-2, 1 CH, NC)
+Total: 18-0-4, 24 CH, 1 GC, 21 NC
+
+VII Semester:
+- B.Tech. Project (0-0-6, 6 CH, 3 NC)
+- AI+X / DS+X (3-0-0, 3 CH, 3 NC)
+- Programme/Open Electives (15-0-0, 15 CH, 15 NC)
+- Humanities III (3-0-0, 3 CH, 3 NC)
+- Environmental Science (2-0-0, 2 CH, 2 NC)
+Total: 14-0-6, 21 CH, 17 NC
+
+VIII Semester:
+- Humanities IV (3-0-0, 3 CH, 3 NC)
+- Programme/Open Electives (15-0-0, 15 CH, 15 NC)
+Total: 18-0-0, 18 CH, 18 NC
+
+Total of graded and Non-Graded Credit: 9 GC, 150 NC
+Non-Graded Design Credits: 6
+Grand Total: 165
+
+Note: ES are proposed Engineering Science compulsory courses
+
+================================================================================
+END OF DOCUMENT
+================================================================================

@@ -1,0 +1,182 @@
+Word2Vec — Semantic Analysis Results
+=================================================================
+
+=================================================================
+  Skip-gram + Negative Sampling
+=================================================================
+  Loaded: 782 words × 50 dims
+
+─────────────────────────────────────────────────────────────────
+  TOP-5 NEAREST NEIGHBORS
+─────────────────────────────────────────────────────────────────
+  research           →  facilities  (0.583),   graduation  (0.575),   rishabh  (0.575),   innovation  (0.557),   except  (0.544)
+  student            →  employed  (0.689),   qualifier  (0.676),   records  (0.676),   visiting  (0.672),   cannot  (0.658)
+  phd                →  mtech  (0.686),   msc  (0.642),   cannot  (0.638),   dual  (0.629),   mba  (0.625)
+  semester           →  mid  (0.758),   recess  (0.686),   break  (0.671),   vacation  (0.663),   carries  (0.660)
+  degree             →  dual  (0.772),   msc  (0.689),   bachelor  (0.665),   convocation  (0.625),   master  (0.618)
+  programme          →  continue  (0.665),   electives  (0.633),   open  (0.597),   discontinue  (0.585),   next  (0.566)
+  faculty            →  graduates  (0.645),   dugc  (0.640),   would  (0.630),   study  (0.615),   supervision  (0.609)
+  course             →  approved  (0.582),   evaluated  (0.582),   prescribed  (0.551),   he  (0.520),   she  (0.512)
+  registration       →  limits  (0.755),   governors  (0.648),   runs  (0.636),   change  (0.624),   depending  (0.613)
+  thesis             →  recess  (0.821),   instructors  (0.817),   submission  (0.798),   vacation  (0.789),   conferences  (0.784)
+  examination        →  system  (0.682),   appear  (0.676),   national  (0.652),   laboratory  (0.640),   valid  (0.633)
+
+─────────────────────────────────────────────────────────────────
+  ANALOGY EXPERIMENTS
+  formula: vec(B) − vec(A) + vec(C)
+─────────────────────────────────────────────────────────────────
+
+  btech − undergraduate + postgraduate   →   'mtech'
+    #1  joining                 0.580
+    #2  including               0.566
+    #3  avenues                 0.565
+    #4  degrees                 0.565
+    #5  aspects                 0.561
+    #6  total                   0.559
+    #7  award                   0.548
+    #8  state                   0.544
+    #9  bachelor                0.538
+    #10  graded                  0.534
+    → 'mtech' ✗ not in top-10
+
+  master − mtech + btech   →   'bachelor'
+    #1  bachelor                0.648   ← MATCH
+    #2  applicant               0.592
+    #3  qualify                 0.578
+    #4  information             0.552
+    #5  minor                   0.532
+    #6  mbbs                    0.530
+    #7  test                    0.521
+    #8  pharmacy                0.511
+    #9  indian                  0.505
+    #10  department              0.501
+    → 'bachelor' ✓ FOUND in top-10
+
+  credit − course + semester   →   'cgpa'
+    #1  carries                 0.677
+    #2  break                   0.613
+    #3  system                  0.612
+    #4  regular                 0.595
+    #5  week                    0.590
+    #6  winter                  0.575
+    #7  one                     0.574
+    #8  tutorial                0.567
+    #9  hour                    0.566
+    #10  permissible             0.560
+    → 'cgpa' ✗ not in top-10
+
+  grade − student + research   →   'thesis'
+    #1  points                  0.618
+    #2  thesis                  0.557   ← MATCH
+    #3  when                    0.546
+    #4  proportional            0.541
+    #5  procedures              0.532
+    #6  most                    0.531
+    #7  importantly             0.530
+    #8  identify                0.521
+    #9  documents               0.516
+    #10  numerous                0.516
+    → 'thesis' ✓ FOUND in top-10
+
+  msc − science + engineering   →   'mtech'
+    #1  enrolled                0.567
+    #2  accelerated             0.542
+    #3  only                    0.530
+    #4  external                0.522
+    #5  register                0.519
+    #6  records                 0.511
+    #7  graduation              0.510
+    #8  specified               0.501
+    #9  section                 0.500
+    #10  recognized              0.494
+    → 'mtech' ✗ not in top-10
+
+=================================================================
+  CBOW + Negative Sampling
+=================================================================
+  Loaded: 782 words × 50 dims
+
+─────────────────────────────────────────────────────────────────
+  TOP-5 NEAREST NEIGHBORS
+─────────────────────────────────────────────────────────────────
+  research           →  more  (0.953),   organized  (0.950),   guided  (0.949),   grading  (0.948),   support  (0.946)
+  student            →  can  (0.941),   who  (0.908),   registered  (0.905),   admitted  (0.887),   only  (0.884)
+  phd                →  msc  (0.946),   dual  (0.925),   mtech  (0.921),   degree  (0.890),   completing  (0.888)
+  semester           →  examination  (0.922),   earned  (0.898),   permissible  (0.894),   per  (0.885),   grade  (0.871)
+  degree             →  mtech  (0.947),   msc  (0.924),   dual  (0.922),   program  (0.919),   phd  (0.890)
+  programme          →  world  (0.941),   eligibility  (0.933),   even  (0.929),   scholarship  (0.911),   united  (0.911)
+  faculty            →  support  (0.939),   component  (0.933),   study  (0.932),   mode  (0.929),   prior  (0.923)
+  course             →  joint  (0.925),   such  (0.924),   make  (0.922),   either  (0.922),   been  (0.921)
+  registration       →  application  (0.972),   falls  (0.949),   three  (0.947),   avail  (0.945),   evaluation  (0.945)
+  thesis             →  rules  (0.949),   comprehend  (0.936),   theory  (0.936),   new  (0.917),   understanding  (0.915)
+  examination        →  semester  (0.922),   instructors  (0.915),   permissible  (0.913),   grade  (0.912),   make  (0.912)
+
+─────────────────────────────────────────────────────────────────
+  ANALOGY EXPERIMENTS
+  formula: vec(B) − vec(A) + vec(C)
+─────────────────────────────────────────────────────────────────
+
+  btech − undergraduate + postgraduate   →   'mtech'
+    #1  constrained             0.959
+    #2  processing              0.955
+    #3  video                   0.954
+    #4  resource                0.954
+    #5  integrated              0.948
+    #6  jobs                    0.941
+    #7  speech                  0.941
+    #8  communications          0.939
+    #9  experimental            0.939
+    #10  including               0.938
+    → 'mtech' ✗ not in top-10
+
+  master − mtech + btech   →   'bachelor'
+    #1  jodhpur                 0.788
+    #2  list                    0.700
+    #3  interview               0.685
+    #4  iit                     0.648
+    #5  class                   0.644
+    #6  inculcate               0.613
+    #7  suny                    0.592
+    #8  july                    0.589
+    #9  albany                  0.579
+    #10  scrutiny                0.578
+    → 'bachelor' ✗ not in top-10
+
+  credit − course + semester   →   'cgpa'
+    #1  per                     0.929
+    #2  term                    0.927
+    #3  summer                  0.906
+    #4  permissible             0.878
+    #5  carries                 0.866
+    #6  maximum                 0.866
+    #7  break                   0.854
+    #8  credits                 0.844
+    #9  tutorial                0.827
+    #10  average                 0.824
+    → 'cgpa' ✗ not in top-10
+
+  grade − student + research   →   'thesis'
+    #1  interview               0.612
+    #2  iit                     0.524
+    #3  computer                0.517
+    #4  jodhpur                 0.514
+    #5  class                   0.473
+    #6  norms                   0.468
+    #7  aspects                 0.466
+    #8  creative                0.451
+    #9  academia                0.438
+    #10  economics               0.432
+    → 'thesis' ✗ not in top-10
+
+  msc − science + engineering   →   'mtech'
+    #1  student                 0.888
+    #2  during                  0.830
+    #3  only                    0.812
+    #4  can                     0.810
+    #5  registered              0.798
+    #6  cannot                  0.789
+    #7  programme               0.784
+    #8  who                     0.777
+    #9  is                      0.770
+    #10  must                    0.762
+    → 'mtech' ✗ not in top-10

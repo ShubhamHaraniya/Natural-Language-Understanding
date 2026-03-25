@@ -1,0 +1,33 @@
+
+IIT JODHPUR - DATA COLLECTION SUMMARY
+================================================================================
+All URLs and Files Used for Text Extraction
+================================================================================
+
+PDF FILES:
+----------
+1. Academic Regulations (Main Document)
+   URL: https://iitj.ac.in/PageImages/Gallery/03-2025/1_Academic_Regulations_Final_03_09_2019.pdf
+   Description: Complete academic regulations for undergraduate and postgraduate programs
+
+2. MTech AI Curriculum (AY 2025 onwards)
+   URL: https://iitj.ac.in/PageImages/Gallery/01-2026/Detailed-curriculum-for-MTech-AI-AY-2025-onwards-639053782336374627.pdf
+   Description: Detailed curriculum for M.Tech. AI program (Academic Year 2025 onwards)
+
+3. BTech AI&DS Curriculum
+   URL: https://iitj.ac.in/PageImages/Gallery/07-2025/Curriculum-BTech-AIDS.pdf
+   Description: Detailed curriculum for B.Tech. Artificial Intelligence and Data Science
+
+WEB PAGES:
+----------
+1. CSE Postgraduate Programs
+   URL: https://iitj.ac.in/computer-science-engineering/en/postgraduate-programs
+   Description: Information about postgraduate programs in Computer Science and Engineering
+
+2. CSE Undergraduate Programs
+   URL: https://iitj.ac.in/computer-science-engineering/en/undergraduate-programs
+   Description: Information about undergraduate programs in Computer Science and Engineering
+
+3. List of Academic Programs
+   URL: https://iitj.ac.in/office-of-academics/en/list-of-academic-programs
+   Description: Complete list of all academic programs offered by IIT Jodhpur

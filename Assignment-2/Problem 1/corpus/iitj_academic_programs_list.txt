@@ -1,0 +1,102 @@
+
+IIT JODHPUR - LIST OF ACADEMIC PROGRAMS
+================================================================================
+
+Programs offered by IITJ
+
+Bachelor of Technology
+S.No.  Academic Programs                          Starting Year
+1      Computer Science & Engineering             Started in 2008
+2      Electrical Engineering                     Started in 2008
+3      Mechanical Engineering                     Started in 2008
+4      Bioengineering                             Started in 2017
+5      Materials Engineering                      Started from AY 2020-21
+6      Chemical Engineering                       Started from AY 2020-21
+7      Civil and Infrastructure Engineering       Started from AY 2020-21
+8      Artificial Intelligence and Data Science   Started in 2020
+
+Bachelor of Science
+S.No.  Academic Programs                          Starting Year
+1      Chemistry with Specialization              Started from 2022-23
+2      Physics with Specialization                Started from 2022-23
+
+BSc-BEd Integrated Teacher Education Program (ITEP)
+S.No.  Academic Programs                          Starting Year
+1      with BSc Major in Physics, Chemistry, and Mathematics   Starting in 2024-25
+
+Master of Science
+S.No.  Academic Programs                          Starting Year
+1      Chemistry                                  Started in 2015
+2      Mathematics                                Started in 2015
+3      Physics                                    Started in 2015
+
+Master of Technology
+S.No.  Academic Programs                          Starting Year
+1      Computer Science & Engineering             Started in 2014
+2      Electrical Engineering                     Started in 2014
+3      Mechanical Engineering                     Started in 2014
+4      Materials Engineering                      Started in 2018
+5      Chemical Engineering                       Started from AY 2020-21
+6      Civil and Infrastructure Engineering       Started from AY 2020-21
+7      Management and Entrepreneurship            Started from AY 2020-21
+8      Artificial Intelligence and Data Science   Started in 2021
+
+School of Design
+S.No.  Academic Programs                          Starting Year
+1      School of Design                           Started from AY 2020-21
+
+School of Liberal Arts
+S.No.  Academic Programs                          Starting Year
+1      School of Liberal Arts                     Started from AY 2020-21
+
+Center for Emerging Technologies for Sustainable Development
+S.No.  Academic Programs                          Starting Year
+1      Center for Emerging Technologies for Sustainable Development   Started from AY 2020-21
+
+Center for Mathematical and Computational Economics
+S.No.  Academic Programs                          Starting Year
+1      Center for Mathematical and Computational Economics   Started from AY 2020-21
+
+Center for Internet of Things (IoT) & Applications
+S.No.  Academic Programs                          Starting Year
+1      Center for Internet of Things (IoT) & Applications   Started from AY 2020-21
+
+Center for Education Technology
+S.No.  Academic Programs                          Starting Year
+1      Center for Education Technology            Started from AY 2020-21
+
+Rishabh Center for Research and Innovation in Clean Energy
+S.No.  Academic Programs                          Starting Year
+1      Rishabh Center for Research and Innovation in Clean Energy   Started from AY 2020-21
+
+Center for Technology Foresight and Policy
+S.No.  Academic Programs                          Starting Year
+1      Center for Technology Foresight and Policy   Started from AY 2020-21
+
+Interdisciplinary Ph.D.
+S.No.  Academic Programs                          Starting Year
+1      Digital Humanities                         Started in 2019
+2      Smart Health Care                          Started in 2019
+3      Space Science and Technology               Started in 2019
+4      Robotics and Mobility Systems              Started in 2019
+5      Quantum Information and Computation        Started in 2019
+
+School of Management and Entrepreneurship
+S.No.  Academic Programs                          Starting Year
+1      MBA                                        Started from AY 2020-21
+
+Masters and Ph.D. Dual Degree
+S.No.  Academic Programs                          Starting Year
+1      Medical Technologies                       Started from AY 2020-21
+
+Masters Programs
+S.No.  Academic Programs                          Starting Year
+1      Masters in Medical Technologies            Started from AY 2020-21
+
+Postgraduate Diploma
+S.No.  Academic Programs                          Starting Year
+1      Data Engineering and Cloud Computing       Started from AY 2022-23
+
+================================================================================
+END OF DOCUMENT
+================================================================================

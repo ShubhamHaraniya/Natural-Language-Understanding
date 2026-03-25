@@ -1,0 +1,58 @@
+=== Dataset Statistics ===
+
+Source documents : 4
+Sentences        : 655
+Total tokens     : 8211
+Vocabulary size  : 776 (min freq = 2)
+
+Top 50 domain words:
+  student                      90
+  credits                      79
+  academic                     72
+  minimum                      71
+  science                      64
+  program                      63
+  ch                           59
+  students                     56
+  degree                       56
+  nc                           51
+  semester                     49
+  engineering                  44
+  courses                      43
+  maximum                      41
+  must                         39
+  started                      39
+  jodhpur                      37
+  year                         37
+  programs                     35
+  requirements                 34
+  iit                          33
+  course                       31
+  ai                           31
+  specified                    30
+  admission                    29
+  cgpa                         27
+  intelligence                 26
+  mtech                        25
+  artificial                   25
+  grades                       24
+  dual                         24
+  regular                      23
+  data                         23
+  senate                       22
+  leave                        22
+  scst                         22
+  institute                    21
+  programmes                   21
+  programme                    21
+  grade                        21
+  phd                          21
+  starting                     21
+  technology                   20
+  category                     20
+  computer                     20
+  examination                  19
+  department                   19
+  ay                           19
+  credit                       18
+  years                        18

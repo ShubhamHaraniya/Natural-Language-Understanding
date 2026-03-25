@@ -1,0 +1,655 @@
+for students enrolled from july onwards
+indian institute of technology jodhpur
+academic programmes at indian institute of technology jodhpur are designed to develop the highest calibre human resource capable of understanding the new patterns of knowledge creation across disciplines obliterating traditional boundaries between science humanities social sciences and engineering
+iit jodhpur aims to produce quality professionals who would be able to address profound and wideranging societal challenges of the 21st century such as energy food water housing mobility and health
+in addition to imparting scientific knowledge iit jodhpur endeavours to inculcate human qualities of courage integrity fairness humility and team effort among its graduates through curricular cocurricular and extracurricular activities on campus
+the undergraduate academic programmes focus on developing temper for the life long process of learning creative thinking and exploring
+the postgraduate academic programmes focus on developing deep understanding of the subject of study coupled with creative inquisitiveness and the ability to address and solve new problems with free and objective mind
+the academic programmes are based on three tenets of semester system credit system and relative grading
+these academic programmes are administered by duly constituted academic committee ac through the office of academics
+the ac will be chaired by dean academics
+in the absence of dean academics associate dean academics pgassociate dean academics ug will discharge the responsibilities of dean academics
+the senate of the institute has formulated set of guidelines and rules to ensure high standard of performance as well as for smooth functioning of the academic programmes
+within this broad set of guidelines subject to the approval of senate different programmes can include additional academic requirements as deemed necessary for that programme
+these academic programmes are continuously monitored by the senate and make appropriate modifications improvements as and when necessary
+the academic session normally runs from the end of july in one year to the middle of july in the next year
+the academic session is divided into three parts two regular semesters and summer term as per the following timelines
+the academic calendar for each academic session will be notified by the office of the dean academics before the start of the session
+the academic calendar will specify the dates for registration last date for addingdeleting courses last date for withdrawal from courses date of midsemester examination last date for submission of midsemester grades date of endsemester examination last date for submission of endsemester grades date of summer term and such other dates as may be necessary
+the institute follows credit system for all its academic programmes
+each course has certain number of credits assigned to it depending on the lecture tutorial and laboratory contact hours per week
+in general one lecture hour per week per semester carries one credit one tutorial hour per week per semester carries one credit and two to three laboratory hours per week per semester carry one credit
+teaching and evaluation
+each course is identified by unique code and course title
+the course code consists of twoletter department code followed by threedigit number
+the first digit indicates the level of the course
+courses numbered are normally at the first year level at the second year level at the third year level at the fourth year level at the fifth year level at the sixth year level and are special courses
+each course has specified number of credits
+the credit structure is indicated as ltpc where stands for lecture hours per week for tutorial hours per week for practical hours per week and for total credits
+courses are categorized as
+core courses compulsory courses required for programme
+elective courses courses that students can choose from specified list
+open elective courses courses from other departments that students can choose
+audit courses courses that students can attend without earning credits
+every student must register for courses at the beginning of each semester as per the schedule announced in the academic calendar
+registration is complete only after the student has enrolled in the required number of courses and the same has been approved by the faculty advisor
+students may add or drop courses within the first two weeks of the semester as specified in the academic calendar
+after the adddrop period students can withdraw from courses with grade until the date specified in the academic calendar
+conduct of courses
+each course is conducted by the instructor with the assistance of the required number of tutors as needed
+the instructor is responsible for conducting the course evaluating the performance of students awarding the grades at the end of the semester and transmitting the grades as per subsection
+the student shall have access to hisher answer papers of all the written examinations conducted for given course which may be shown to himher by the instructors concerned
+the instructor must keep all evaluation records in his custody at least for the next six months
+course approved by the senate of iit jodhpur can be conducted through either direct contact ii synchronized remote contact iii guided study mode or combination of these
+in direct contact mode coordinator or instructor will have face to face physical interaction with the students
+synchronized remote contact mode would require the faculty andor the students to be concurrently connected to the classroom interaction via electronic conferencing involving both audio and video communication
+however there has to be direct interaction between faculty and students for limited hours typically of the stipulated contact hours
+in guided study mode faculty would guide single or group of students to take up the study of an approved course via selflearning and discussionoriented contact sessions
+this mode can be also adopted for enabling student to take up study of new course not yet approved by the senate under the supervision of faculty
+all formal evaluation component applicable to courses being run through any one of the abovementioned modes will be conducted under direct physical supervision of faculty
+all laboratory component of course requiring the use of the specialized facility will be conducted through direct contact
+the instructors and tutors for all courses to be offered during the semester are allocated by the head of the department hosting the program
+when faculty members of other departments are also required to participate in teaching particular course the allocation shall be done in consultation with the head of that department
+components of evaluation
+the evaluation of students performance in course shall be based on continuous assessment throughout the semester
+the evaluation components may include quizzes assignments projects midsemester examination endsemester examination laboratory work and any other component as specified by the instructor
+midsemester examination will be conducted as per the schedule specified in the academic calendar
+the duration of the examination shall normally be two hours
+endsemester examination will be conducted as per the schedule specified in the academic calendar
+the duration of the examination shall normally be three hours
+student who misses an examination due to valid reasons may be permitted to appear for makeup examination
+the request for makeup examination must be submitted to the head of the department with supporting documents within three days of the missed examination
+the performance of student in each course is evaluated on tenpoint scale using letter grades
+the letter grades and their corresponding grade points are as follows
+incomplete no grade point
+satisfactory completion of course no grade point
+unsatisfactory completion of course no grade point
+withdrawal from course no grade point
+award of grades
+the instructor shall recommend the grades for all students registered in the course
+the grades shall be submitted to the head of the department within the date specified in the academic calendar
+the grades shall be reviewed and approved by the departmental undergraduate or postgraduate committee as applicable
+the process of awarding grades involves
+evaluation of all components of assessment
+computation of total marks
+award of letter grades based on relative grading
+submission of grades by the instructor
+scrutiny of grades by the department
+recommendation of grades by the head of the department after scrutiny of grades by moderation committee
+display of grades by instructors
+grade correction if any within hours of display of grades after approval of the head of the department
+approval of grade by the dean ugpg
+finalization of results by the dean ugpg
+approval of results by the chairman senate
+results once approved cannot be changed under any circumstance
+in exceptional cases the student may appeal to the chairman senate for reconsideration with formal justification
+grade point averages
+semester grade point average
+the semester grade point average sgpa is weighted average of the grades earned by student in all the courses credited by herhim and reflects herhis academic performance in the respective semester
+if the grade points associated with the letter grades earned by student in courses registered during semester are g1 g2 gn and the corresponding credits c1 c2 cn then the sgpa is given by the following formula
+sgpa g1c1 g2c2
+gncn c1 c2
+the sgpa is calculated on the basis of grades obtained in all courses except audit courses and courses in which sx grade is awarded registered in particular semester
+cumulative grade point average
+the cumulative grade point average cgpa indicates the overall academic performance of student in all the courses registered up to the latest completed semester
+the cgpa is computed similarly as the sgpa considering all the courses in all semesters
+the cgpa is calculated on the basis of all pass grades except audit courses and courses in which sx grade is awarded obtained in all completed semesters
+the sgpa and cgpa calculation are based on credits earnedcompleted at iit jodhpur alone
+grade card and transcript
+grade card shall be issued to each student at the end of each semester and transcript at the end of the programme
+iit jodhpur grade card and transcript will only indicate the courses credits and grades completed at iit jodhpur and the total number of credits without grades earned in other academic institutions in particular semester if applicable
+waiver of requirements in special cases
+the rules and regulations procedures and requirements stated in this manual other than those related to admissions to the academic programmes may be waived in special circumstances by the ac on the recommendation of the department with the approval of chairman senate
+all such exceptions have to be reported to the senate
+regulations for undergraduate programmes
+the indian institute of technology jodhpur currently offers the following undergraduate programmes
+bachelor of technology btech
+bachelor of technology master of technology dual degree btechmtech
+admission to the btech
+programmes is made through the joint entrance examination jee conducted at all india level
+the details of the admission procedure are notified by the joint admission board
+eligibility for admission
+candidate must have passed the final examination of the system or its equivalent with physics chemistry and mathematics as subjects
+the candidate must also satisfy the minimum qualifying criteria as specified by the joint admission board
+the reservation policy of the government of india will be followed for admission to all programmes
+visiting student is student who is registered for degree in recognized institute or university in india or abroad and who is officially permitted by that institute or university to complete part of hisher academic requirements at iit jodhpur
+for that purpose the visiting student may carry out research or take courses for credit or otherwise or may use other academic facilities
+person can be admitted as visiting student on duly sponsored application to the dean academics
+visiting student may be admitted for maximum period of one year
+visiting student will be required to pay all applicable fees depending upon the status program and nationality
+students so admitted also will be governed by all rules regulations and discipline applicable to regular students of the institute
+cancellation of admission
+students admitted provisionally or otherwise to any program shall submit copies of their mark sheets provisional certificates etc
+of the qualifying examination and other documents by the last date specified for the purpose in the academic calendar
+the senate reserves the right to cancel the admission of any student who fails to submit the prescribed documents by the specified date or to meet other stipulated requirements
+also the senate reserves the right to cancel the admission at any later time if it is found that the student had provided some false information or suppressed relevant information while seeking admission
+fulfillment of admission requirements
+admission to any undergraduate program requires that the applicant be eligible go through the laiddown admission procedure and pay the prescribed fees
+the senate should formally approve all admissions to the undergraduate programmes
+limits on registration
+student must register for minimum of credits and maximum of credits in regular semester
+in the summer term student can register for maximum of credits
+minimum credits for degree
+the minimum credits required for the award of different degrees are as follows
+including minordepartmentinterdisciplinary area specialization years maximum duration
+mtech years maximum duration
+the course requirements for each programme are specified in the curriculum document approved by the senate
+the curriculum consists of core courses elective courses and other requirements
+minimum grade requirement
+student must earn minimum grade of in each registered course to pass the course
+if student fails in course heshe must repeat the course or take an equivalent course as approved by the department
+minimum cgpa requirement
+student must maintain minimum cgpa of to continue in the programme
+if the cgpa falls below the student may be placed on academic probation or asked to discontinue the programme
+student must have minimum attendance of in each course to be eligible to appear for the endsemester examination
+students with attendance below may be debarred from appearing in the endsemester examination
+student whose cgpa falls below at the end of semester will be placed on academic probation
+the student must improve the cgpa to at least by the end of the next semester to continue in the programme
+student who fails to meet the minimum academic requirements may be asked to discontinue the programme
+the decision will be made by the academic committee based on the recommendation of the department
+application for leave of absence should be addressed to the convener dugc and submitted with medical certificate if applicable
+usually leave must not be availed of without prior approval of the dugc
+midsemester recess and vacation
+undergraduate students are entitled to avail of midsemester recess and vacation as specified in the academic calendar
+student may be granted leave of absence during the semester for maximum of days on medical grounds and for days for any other valid reason
+it may be applicable in unforeseen circumstances or for medical reasons
+absence for period of four or more weeks in any semester will result in automatic withdrawal from that semester
+dugc can approve and intimate office of academics regarding the leave of the student for records
+in case the leave extends beyond semester it can only be approved through the academic committee
+semester withdrawal on the medical ground will not be counted towards the maximum permissible duration of the programme for the student
+to help students broaden their horizons and gain coursework experience shehe may be permitted to proceed to other academic institutes industry rd organization in india or abroad
+academic leave can be requested for any of the following reasons such as
+experimental worktraining using specialized facility not available at iitj
+exchange program as part of an exchange program with an academic institution in india or abroad
+all such requests must be evaluated and approved by dugc before the leave is granted
+student may be allowed to spend maximum duration of one summer term and two semesters on academic leave
+student during academic leave can earn maximum of credits per semester as certified by the dugc and approved by the course equivalence committee
+an undergraduate student is eligible to apply for branch change at the end of the second semester only provided the student satisfies the following criteria
+secured cgpa at the end of the second semester of
+greater than or equal to for scst and pd applicants
+greater than or equal to for other applicants
+completed all prescribed course credits for the first two semesters including the nongraded courses
+no backlog at the end of the second semester
+the student should have no disciplinary action against himher
+change of the branch will be permitted strictly in the order of merit as determined by the cgpa at the end of the second semester
+requirements for graduation
+the student must complete the programme within the maximum duration specified for the programme
+the maximum duration includes any period of withdrawal or leave
+the student shall be declared to have fulfilled the academic requirements if shehe has earned the minimum credits as per table in section for all degrees
+payment of fees and dues
+the degree will be awarded after obtaining no dues clearance from all concerned sections as deemed necessary by dean academics
+no case of disciplinary action
+the student shall not be considered to have completed the academic requirements if there is any case of indiscipline pending against herhim
+completion of engagement in ncc nss or nso
+the student should have completed extracurricular activity like performing arts sports national cadet corps national service schemes and national sports organisation for period of at least two semesters during their btech
+award of degrees
+student who completes all the graduation requirements specified in clauses to can be provided provisional certificate by the office of dean academics on the approval of chairman senate
+certificate will have mention of major minor department or interdisciplinary specialization wherever applicable
+student who completes all the graduation requirements specified in clauses to is recommended by the senate to the board of governors bog for the award of the appropriate degree in the ensuing convocation
+the degree can be awarded only after the bog accords its approval
+the certificate will have mention of major minor department or interdisciplinary specialization wherever applicable
+notwithstanding anything contained in this document the senate of iit jodhpur reserves the right to modifyamend without notice the curricula procedures requirements and rules pertaining to its btech
+regulations for postgraduate programmes
+the indian institute of technology jodhpur currently offers the following postgraduate programmes
+master of science msc
+dual degree mscmtech
+master of technology mtech
+dual degree mtechphd
+doctor of philosophy phd
+the process of admission for all the programs offered by the institute normally is underway during aprilmay for semester and during novemberdecember for semester
+in addition the department may process applications for admissions to phd programs on continuous basis and admit students as per the existing procedure
+categories of admission
+candidate can be admitted in any one of the following categories
+however all categories are not applicable for all pg programs
+further programmes can be offered in combination of these modes like fully sponsored parttime program
+in campus student who can register for up to full credit permissible per semester
+student supported by project of the institute will be considered fulltime regular student
+ii fulltime sponsored
+in campus student who can register for up to full credit permissible per semester
+the candidate is sponsored either by hisher employer or by self
+selfsponsored candidate must have two years of relevant industrialrdacademic experience
+parttime student is working professional who while employed attend regular classes as per the schedule of the institute
+the student must be employed in the neighbourhood of iit jodhpur
+the student must produce noc from the employer for pursuing the programme at iit jodhpur
+the student can register only for limited number of credits as compared to fulltime regular student
+student working in an industryrd establishmentacademic institution which is equipped with the necessary research and library facilities
+the employer must relieve the student to stay in the campus to complete the minimum residency requirements
+executive only for
+professional who can carry outcomplete the programme requirement in
+an accelerated fashion minimum in months or
+accumulates credits as per convenience and petitions degree in maximum of years
+the parttime or fulltime mode by attending courses offered in synchronized remote contact mode and limited direct interaction
+eligibility for admission
+the eligibility conditions given below are the absolute minimum
+departments may prescribe any requirements over and above subject to the approval of the senate
+the number of admissions that can be made to any program shall be decided by the senate from time to time
+reservation of seats for various reserved categories shall be prescribed by the board of governors
+the admission to the msc
+programs offered by the institute will be through any one of the following two avenues
+the applicants qualified through the joint admission test for master jam organized by iits
+the applicants having bachelors degree in any relevant discipline or 4year program may be admitted based on written test andor interview conducted by iit jodhpur
+the applicants under the category must have minimum of marks for genobc for scst category in aggregate or as specified by the universityinstitute or minimum cgpa of for genobc for scst category on the scale of with corresponding proportional requirements when the scales are other than on for example for genobc category for scst on scale of or firstclass as specified by the universityinstitute
+admission to sc tech dual degree program regular
+the admission to the
+dual degree programs offered by the institute will be through any one of the following two avenues
+the applicants qualified through the joint admission test for master jam organized by iits
+the applicants having bachelors degree in any relevant discipline or 4year program may be admitted based on written test andor interview conducted by iit jodhpur
+the applicants under the category must have minimum of marks for genobc for scst category in aggregate or as specified by the universityinstitute or minimum cgpa of for genobc for scst category on the scale of with corresponding proportional requirements when the scales are other than on for example for genobc category for scst on scale of or firstclass as specified by the universityinstitute
+admission to tech program regular
+the applicant must have bachelors degree in engineering or science year program or masters degree in science mca pharmacy medical sciences agricultural sciences and veterinary sciences or in related field
+minimum of marks for genobc for scst category in aggregate or as specified by the universityinstitute or minimum cgpa of for genobc for scst category on the scale of with corresponding proportional requirements when the scales are other than on for example for genobc category for scst on scale of or firstclass as specified by the universityinstitute
+the applicant must either have valid gate score or exempted from gate as per mhrd circular or have qualified an equivalent national examination or have qualified in the written test andor interview conducted by iit jodhpur
+admission to mtech program executiveparttime externalsponsored
+the applicant must have bachelors degree in engineering or science 4year program or masters degree in science mca pharmacy medical science agricultural science and veterinary science or in related field
+minimum of marks for genobc for scst category in aggregate or as specified by the universityinstitute or minimum cgpa of for genobc for scst category on the scale of with corresponding proportional requirements when the scales are other than on for example for genobc category for scst on scale of or firstclass as specified by the universityinstitute
+the applicant must have minimum of two years of work experience after qualifying degree in industryrd laboratoriesacademic institutions at the time of registration to the program
+however the credit accumulation for the program may start immediately after the qualifying degree
+petitioning for the degree can happen only year after registration
+the applicant must qualify the written test andor interview conducted by iit jodhpur
+admission to tech
+dual degree program regular
+the applicant must have bachelors degree in engineering or science 4year program or masters degree in science mca pharmacy medical science agricultural science and veterinary science or in related field
+minimum of marks for genobc for scst category in aggregate or as specified by the universityinstitute or minimum cgpa of for genobc for scst category on the scale of with corresponding proportional requirements when the scales are other than on for example for genobc category for scst on scale of or firstclass as specified by the universityinstitute
+the applicant must either have valid gate score or exempted from gate as per mhrd circular or have qualified an equivalent national examination or have qualified in the written test andor interview conducted by iit jodhpur
+admission to phd
+candidates admitted in this category shall not be registered student in any other academic program in india or abroad and shall not be fulltime or parttime employee of any organization in india or abroad
+the applicant must have masters degree in engineering pharmacy agricultural science science humanities social sciences management with at least marks or at least cpi or cgpa for gengenewsobc for scst
+the applicant must have mbbs with mdms bvsc with mvsc bds with mds bpth with mpth both with moth or equivalent with at least marks or at least cpi or cgpa for gengenewsobc for scst in bachelors degree
+the applicant must have bachelors degree of minimum fouryear duration in engineering or science or medicine or pharmacy or agricultural science or veterinary science or equivalent with at least marks or at least cpi or cgpa for genobc for scst
+admission under any special scheme like quality improvement programme qip defence personnel
+the procedures and criteria for admission of these candidates can be decided with the approval of chairman senate
+admission to phd sponsoredexternalparttime
+candidates admitted in this category shall not be registered student in any other academic program in india or abroad
+the applicant must have masters degree in engineering pharmacy agricultural science science humanities social sciences management with at least marks or at least cpi or cgpa for gengenewsobc for scst
+the applicant must have mbbs with mdms bvsc with mvsc bds with mds bpth with mpth both with moth or equivalent with at least marks or at least cpi or cgpa for gengenewsobc for scst in bachelors degree
+the applicant must have bachelors degree of minimum fouryear duration in engineering or science or medicine or pharmacy or agricultural science or veterinary science or equivalent with at least marks or at least cpi or cgpa for genobc for scst
+the applicant must have minimum of two years of work experience after qualifying degree in industryrd laboratoriesacademic institutions at the time of registration to the program
+the applicant must qualify the written test andor interview conducted by iit jodhpur
+admission of nondegree students
+nondegree student is student who is registered for degree in recognized institute or university in india or abroad and who is officially sponsored by that institute or university to complete part of hisher academic requirements at iit jodhpur
+for that purpose the nondegree student may carry out research or take courses for credit or otherwise or may use other academic facilities
+any candidate can be admitted as casual student for specific courses provided the candidate satisfies the minimum eligibility criteria specified in section
+the application must be routed through the office of dean rd
+students so admitted will be governed by all rules regulations and discipline of the institute
+the reservation policy of government of india will be followed
+limits on registration
+maximum and minimum number of credits student can register in different programs
+msc an msc
+student can register for maximum of credits and minimum of credits in semester
+mtech an mtech
+student can register for maximum and minimum credits as per table
+table maximum and minimum credits an mtech
+student can register for during the regular semestersummer term
+student registered under different categories
+executive accelerated maximum minimum credits regular semester maximum minimum credits summer term
+executive normal maximum minimum credits regular semester maximum minimum credits summer term
+executive slowpaced maximum minimum credits regular semester maximum minimum credits summer term
+executive part time maximum minimum credits regular semester maximum minimum credits summer term
+fulltime regularsponsored maximum minimum credits regular semester maximum minimum credits summer term
+external maximum minimum credits regular semester maximum minimum credits summer term
+parttime maximum minimum credits regular semester maximum minimum credits summer term
+dual degreedirect phd
+joining after btech the maximum and minimum credits that an mtechphd
+dual degree student can register are equivalent to that of an mtech
+student can register for maximum and minimum credits as per table
+table maximum and minimum credits phd
+student regular can register for during the regular semester
+student registered under different categories
+fulltime regular maximum minimum credits
+fulltime sponsored maximum minimum credits
+parttime maximum minimum credits
+external maximum minimum credits
+minimum credits for msc
+the minimum credits required for the award of msc
+degree is credits
+minimum credits for mtech
+the minimum credits required for the award of mtech
+degree is credits
+minimum credits for mscmtech
+the minimum credits required for the award of mscmtech
+dual degree is credits
+minimum credits for mtechphd
+the minimum credits required for the award of mtechphd
+dual degree is credits for the mtech
+part and additional research credits for the phd
+minimum credits for phd
+the minimum credits required for the award of phd
+degree include coursework credits and research credits as specified by the department
+minimum cgpa requirements
+student must maintain minimum cgpa of for msc mtech and dual degree programmes and minimum cgpa of for phd
+programme to continue in the programme
+application for leave of absence should be addressed to the convener drc and submitted with medical certificate if applicable
+usually leave must not be availed of without prior approval of the drc
+maximum of days in an academic year including leave on medical grounds mid semester break
+the student must apply for leave in advance even during the summerwinter term or midsemester break
+phd student cannot avail leave for more than days at stretch
+student cannot avail leave for more than days at stretch
+the leave beyond days in an academic year may be granted in exceptional cases by drc without assistantship during that period
+maternity leave for phd
+students is sanctioned as per the directives of mhrd
+it will not be counted towards the maximum permissible duration of the programme
+any other leave may also be permissible as per the guidelines of mhrd
+may be applicable in unforeseen circumstances or for medical reasons
+absence for period of four or more weeks in any semester will result in automatic withdrawal from that semester
+in all such cases the fellowship will be stopped with immediate effect and it will be continued for only after the student rejoins the institute
+drc can approve and intimate office of academics regarding the leave of the student for records
+in case the leave extends beyond semester it can only be approved through the academic committee
+semester withdrawal on the medical ground will not be counted towards the maximum permissible duration of the programme for the student
+academic leave can be requested for any of the following reasons such as
+library work because of specialized collection at particular library
+experimental worktraining using specialized facility not available at iitj
+attending conferencesworkshopssummerwinter schoolssymposium
+collaborative work as part of joint mtechphd
+collaborative work for specific problem related to his ongoing phd programme as indicated in his research proposal
+financial assistantshipscholarship will be provided to the eligible students admitted under regular fulltime program
+the eligibility criteria are as follows
+financial assistance is available for msc
+students as per mhrd norms
+student having completed minimum credit requirements of an msc
+program at the end of the second year with
+cgpa greater than or equal to
+have qualified gate can have financial support from mhrd or project fund
+student with gate can have financial support from mhrd or project fund
+student may be exempted from gate as per mhrd guidelines
+executive tech program
+students admitted in this category will not be provided any financial assistance from the institute
+dual degree program
+rules and regulations governing financial assistance for dual degree students will be at par with regular phd
+student admitted to the institute will be eligible for financial assistance as per the norms of iit jodhpur
+candidate having btechbs
+fouryear programmasters degree with gatenetjrfnbhm or equivalent can have financial assistance as per mhrd normsor equivalent applicable for nonscience departments
+the requirement of gate is exempted for an applicant with mtech or equivalent postbachelors degree
+student may be exempted from gate as per mhrd guidelines
+student would be eligible for enhancement in the scholarship after two years provided the student has met qualifier requirement
+the enhanced fellowship will commence from the date of completion of both the conditions
+no arrears will be provided due to delay in completing the qualifier requirement
+the teachingresearch assistantship of phd
+student shall stop from the day of submission of the thesis
+requirements for graduation
+the maximum duration for completion of different postgraduate programmes from the date of registration is as follows
+all qualifying degrees years
+dual degree all qualifying degrees years
+fulltime regularsponsored all qualifying degrees years
+parttime all qualifying degrees years
+executive all qualifying degrees year
+engineering in an engineering discipline years
+degree in science discipline years
+engineering in an engineering discipline years
+science humanities or social science discipline
+degree in science humanities or social science discipline years
+parttime all qualifying degrees years
+external all qualifying degrees year
+the student shall be declared to have fulfilled the academic requirements if shehe has earned the minimum credits as per section for
+sc section for
+tech section for
+dual degree section for mtechphd
+dual degree and section for phd while meeting the minimum cgpa requirements as mentioned in section
+no dues clearance
+degree will be awarded after obtaining no dues clearance from all concerned sections as deemed necessary by dean academics
+no case of disciplinary action
+the student shall not be considered to have completed the academic requirements if there is any case of indiscipline pending against herhim
+award of degrees
+student who completes all the graduation requirements specified in clauses to can be provided with provisional certificate by the office of dean academics on the approval of chairman senate
+student who completes all the graduation requirements specified in clauses to is recommended by the senate to the board of governors bog for the award of the appropriate degree in the ensuing convocation
+the degree can be awarded only after the bog accords its approval
+notwithstanding anything contained in this document the senate of iit jodhpur reserves the right to modifyamend without notice rules and regulations of the postgraduate programmes at iitjodhpur
+iit jodhpur list of academic programs
+programs offered by iitj
+bachelor of technology
+academic programs starting year
+computer science engineering started in
+electrical engineering started in
+mechanical engineering started in
+bioengineering started in
+materials engineering started from ay
+chemical engineering started from ay
+civil and infrastructure engineering started from ay
+artificial intelligence and data science started in
+bachelor of science
+academic programs starting year
+chemistry with specialization started from
+physics with specialization started from
+bscbed integrated teacher education program itep
+academic programs starting year
+with bsc major in physics chemistry and mathematics starting in
+master of science
+academic programs starting year
+chemistry started in
+mathematics started in
+physics started in
+master of technology
+academic programs starting year
+computer science engineering started in
+electrical engineering started in
+mechanical engineering started in
+materials engineering started in
+chemical engineering started from ay
+civil and infrastructure engineering started from ay
+management and entrepreneurship started from ay
+artificial intelligence and data science started in
+school of design
+academic programs starting year
+school of design started from ay
+school of liberal arts
+academic programs starting year
+school of liberal arts started from ay
+center for emerging technologies for sustainable development
+academic programs starting year
+center for emerging technologies for sustainable development started from ay
+center for mathematical and computational economics
+academic programs starting year
+center for mathematical and computational economics started from ay
+center for internet of things iot applications
+academic programs starting year
+center for internet of things iot applications started from ay
+center for education technology
+academic programs starting year
+center for education technology started from ay
+rishabh center for research and innovation in clean energy
+academic programs starting year
+rishabh center for research and innovation in clean energy started from ay
+center for technology foresight and policy
+academic programs starting year
+center for technology foresight and policy started from ay
+academic programs starting year
+digital humanities started in
+smart health care started in
+space science and technology started in
+robotics and mobility systems started in
+quantum information and computation started in
+school of management and entrepreneurship
+academic programs starting year
+mba started from ay
+masters and phd
+academic programs starting year
+medical technologies started from ay
+academic programs starting year
+masters in medical technologies started from ay
+academic programs starting year
+data engineering and cloud computing started from ay
+end of document
+iit jodhpur computer science and engineering department
+computer science and engineering cse
+tech program in computer science and engineering cse at iit jodhpur establishes balance between traditional and emerging areas of the discipline by offering students combined knowledge of theory and practice
+the program is designed to extend the undergraduate computing skills with uptodate and indepth expertise in specialized areas of the computer science discipline
+the curriculum is developed in consultation with experts from academia and industry to address the needs of both domains and open wide range of possibilities for students for their future endeavors
+students are equipped with relevant concepts algorithms techniques and underpinning principles while developing the ability to solve realworld problems in number of application areas such as computer systems and security distributed computing internet of things artificial intelligence and big data
+artificial intelligence ai
+in artificial intelligence ai aims to fill the critical needs of the industry and to fill the gap in the availability of highly skilled ai scientists and engineers
+the major goal of the twoyear mtech
+ai program is to impart rigorous training in strong foundations of artificial intelligence as well as cuttingedge ai tools and techniques and produce graduates who can reinforce the countrys efforts towards developing ai technologies
+dual masters with university of albany suny ua
+the dual masters program in cse and cybersecurity in collaboration with university at albany suny ualbany
+this is unique program that leverages the strengths of the two institutions iit jodhpur in cse and ualbany in cybersecurity
+the field of cybersecurity is becoming more critical as we become more technology dependent and there is short supply of cybersecurity professionals in the united states of the order of quarter million jobs
+also the field is growing rapidly
+students will get an mtech in cse and an ms in cyber security
+ualbany is providing dollar scholarship for our students since we are partner institution
+additionally this program is stem certified in the united states which means that students will automatically get 3year work visa at the end of their one year at ualbany
+also currently there are over quarter million open jobs in the cybersecurity
+the previous set of students that have gone from iit jodhpur sme we have had placement in the industry or at education institutions for doctoral programs with full assistantships
+almost all students have also been able to take assistantships at ualbany making their education even more affordable
+dual degree cse and mtechphd
+dual degree ai
+iit jodhpur has been offering mtechphd dualdegree programs since july
+these programs have been designed particularly for students with an inclination for research
+students who have completed their btech
+are eligible to join this program
+students complete their mtech
+course work and then start their research and earn both mtech
+degrees at the end of the program
+there are two distinct aspects of these programs first it provides an avenue for students to earn both degrees in far lesser duration compared to if these were done individually and second students are awarded fellowship equivalent to that of jrf from the date of their joining
+academically these programs facilitate students to decide upon their area of research by the end of the first semester
+after phase of rigorous coursework in the first two years they start working towards the academic requirements of phd that includes comprehensive exam stateoftheart seminar publications in top conferences and journals and thesis
+the students can also work on industry projects and collaborate with faculty from other academicresearch bodies
+this program offers the benefit of phd level scholarship from the first year itself and the integrated courses and research helps in reducing the overall time of completing mtech and phd
+the department of cse is currently offering two such programs mtechphd dualdegree in cse and mtechphd dualdegree in ai and is continuously looking for motivated and capable students to conduct advanced research in all areas of computer science and ai
+the coursework requirements of these programs are similar to the corresponding mtech programs and other support travel support institute mobility grant fellowship schemes in addition to that from the ministry of education etc and research related academic requirements are similar to the phd program
+ai for working professionals
+from january the department of computer science and engineering iit jodhpur has started the executive mtech
+in ai program for working professionals
+this program runs as combination of synchronous and asynchronous teaching
+online lectures are offered on evenings or weekends for the convenience of working professionals
+the minimum duration of this mode of mtech
+program is years and the credit requirement is the same as the regular mtech in ai program at iit jodhpur ie
+the major goal of this program is to train and enhance the skills of working professionals with strong foundations of artificial intelligence ai and stateoftheart ai tools and techniques and make them more industrycompetent
+computer science and engineering cse
+program in computer science and engineering cse at iit jodhpur aims to equip its students with skills to undertake careers that involve identifying and engineering solutions for realworld problems through innovating upon their core competence in computer science
+the curriculum gives due importance to the foundational aspects of computer science as well as aspires to inculcate in students the foresight and expertise to address transdisciplinary technological questions
+students can choose from number of elective courses that strive to expand their understanding of emerging concepts and processes across domains such as theory and algorithms hardware systems network and security artificial intelligence machine learning speech vision language and social computing
+the program also encourages its students to opt from number of exclusive interdisciplinary specialization tracks that are envisaged to provide coherent and sophisticated understanding of underlying subjectareas to empower them to pursue myriad career paths
+some of these specializations are
+social and sustainable computing
+intelligent communication and networking
+the program aspires to produce well prepared motivated workforce who would valiantly embark upon careers in research and industry involving innovation knowledge creation engineering and entrepreneurship
+all students who have graduated from the department thus far are currently placed in companies of repute or are pursuing higher education in toptier universities in the country and the rest of the world
+artificial intelligence and data science aids
+starting iit jodhpur will be offering unique undergraduate program in artificial intelligence and data science that envisions to equip students with the ability to assess societal health safety legal and cultural issues and most importantly identify their consequent responsibilities as engineers of effective solutions for the same
+the curriculum is interdisciplinary at heart straddling computer science mathematics artificial intelligence machine learning data science and their applications across numerous domains
+besides artificial intelligence deep learning digital image processing computer vision and video processing the program will be training its students in range of exclusive courses like
+data engineering and data visualization
+social network analysis
+augmented and virtual reality
+speech and natural language understanding
+the curriculum promises to provide opportunities to its students to explore number of transdisciplinary specialization areas including visual computing sociodigital reality intelligent communications and networking language technologies robotics and aiot
+the program will also allow its students to venture into oneofakind management specialization that would focus on ai and technology leading to an mba btech mba dual degree program and scope for entrepreneurial pursuits
+end of document
+iit jodhpur curriculum information
+artificial intelligence ai and btech
+artificial intelligence data science aids
+artificial intelligence ai
+artificial intelligence ai is branch of computer science that aims to create machines to act with higher levels of intelligence and emulate the human capabilities of sense comprehend and act
+the core problems of artificial intelligence include programming computers for certain traits such as knowledge reasoning problemsolving perception learning and planning
+ai technology development and applications are evolving rapidly with major implications for economies and societies
+as the demand for such applications increases there is also an increasing need for building the future workforce for ai
+for developing the ai ecosystem this program will be executed in synergy with other mtech programs running in iit jodhpur such as sensors iot cyberphysical systems and advanced manufacturing and design
+this mtech in ai programme will offer students with deep knowledge of both fundamental ai technologies as well as applicationoriented ai
+student completing this program will be capable to undertake careers in industry as well as academia
+heshe will have the option to explore variety of domains including manufacturing fintech healthcare agriculturefood processing education retailcustomer engagement human and robot interactionintelligent automation smart city aid for differently abledaccessibility technology
+expected graduate attributes
+after completing this programme student will be able to develop an ability to
+demonstrate advanced skills to comprehend and communicate effectively
+carry out projects using intelligent cognitive solutions provided by ai algorithms to get more insights in stakeholder management risk modeling intelligent resource scheduling and managing project constraints with intelligent use of data models
+course structure for mtech
+ai program and dual degree mtech
+statistics matrix computation optimization credits
+artificial intelligence credits
+machine learning credits
+data structures and practices credit
+program elective credits
+program elective credits
+technical communication credit
+artificial intelligence ii credits
+machine learning ii credits
+real time autonomous systems credits
+program elective credits
+open elective credits
+ethics and professional life credit
+major project part credits
+program elective credits
+program elective credits
+open elective credits
+major project part credits
+program elective credits
+intellectual property credit
+maths fractals linear algebra probability and random processes optimization
+artificial intelligence and data science aids
+the btech program in artificial intelligence and data science at iit jodhpur integrates computer science fundamentals with specialized courses in ai and data science
+it aims to prepare students for careers in various domains by providing handson knowledge and interdisciplinary skills while also allowing for entrepreneurial opportunities
+the curriculum includes core and elective courses practical training and dual degree option with an mba
+starting iit jodhpur offers unique undergraduate program in artificial intelligence and data science that envisions to equip students with the ability to assess societal health safety legal and cultural issues and most importantly identify their consequent responsibilities as engineers of effective solutions for the same
+the curriculum is interdisciplinary at heart straddling computer science mathematics artificial intelligence machine learning data science and their applications across numerous domains
+digital image processing
+computer vision and video processing
+data engineering and data visualization
+social network analysis
+augmented and virtual reality
+speech and natural language understanding
+transdisciplinary specialization areas
+intelligent communications and networking
+aiot artificial intelligence of things
+the program allows students to venture into oneofakind management specialization that would focus on ai and technology leading to an mba btech mba dual degree program and scope for entrepreneurial pursuits
+2nd year btech ai data science program structure ay
+introduction to electrical engineering ch nc
+introduction to computer science ch nc
+introduction to bioengineering ch nc
+chemistry lab ch nc
+mathematics ch nc
+engineering visualization ch nc
+engineering design ch gc
+communication skill ch gc
+social connect and responsibilities ch gc
+performing arts isports ch gc
+total ch gc nc
+engineering mechanics ch nc
+chemistry ch nc
+physics ch nc
+physics lab ch nc
+mathematics ii ch nc
+engineering realization ch nc
+engineering design ii ch gc
+communication skill ii ch gc
+social connect and responsibilities ii ch gc
+performing arts iisports ii ch gc
+total ch gc nc
+pssp ch nc
+data structures and algorithms ch nc
+maths for computing ch nc
+signals and systems ch nc
+introduction to profession ch gc
+total ch gc nc
+materials science engineering electronic materials 1x100 ch nc
+ienergy materials ii computational materials design 2x100 ch nc
+pattern recognition and machine learning ch nc
+thermodynamics ch nc
+hmi pcs1 pcs2 ch gc nc
+quantum info processing ch nc
+humanities ch nc
+total ch nc
+design and analysis of algorithms ch nc
+artificial intelligence ch nc
+optimization in ml ch nc
+data engineering ch nc
+data visualization ch nc
+deep learning ch nc
+humanities ii ch nc
+professional ethics ch nc
+total ch gc nc
+aix dsx ch nc
+dependable ai ch nc
+programmeopen elective ch nc
+ethics policy law and regulations in ai ch nc
+total ch gc nc
+project ch nc
+aix dsx ch nc
+programmeopen electives ch nc
+humanities iii ch nc
+environmental science ch nc
+total ch nc
+humanities iv ch nc
+programmeopen electives ch nc
+total ch nc
+total of graded and nongraded credit gc nc
+nongraded design credits
+note es are proposed engineering science compulsory courses
+end of document

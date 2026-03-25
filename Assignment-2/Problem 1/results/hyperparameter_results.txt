@@ -1,0 +1,13 @@
+=== Hyperparameter Experiment Results ===
+
+Model        Config          Dim   Window    Neg   Final Loss    Time(s)
+--------------------------------------------------------------------
+skipgram     config_A        100        5      5       1.1826        503
+skipgram     config_B         50        3      5       1.1563        332
+skipgram     config_C        100        7     10       1.4246        919
+cbow         config_A        100        5      5      24.5254         85
+cbow         config_B         50        3      5      21.9324         82
+cbow         config_C        100        7     10      29.8253        119
+
+Saved Skip-gram: config_B (loss=1.1563)
+Saved CBOW:      config_B (loss=21.9324)
